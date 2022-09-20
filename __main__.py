@@ -6,17 +6,17 @@
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
 #
 # t.me/SharingUserbot & t.me/Lunatic0de
-# Cilik-PyroBot
+# Dmt-PyroBot
 
 from pyrogram import idle
 from uvloop import install
 
 from config import BOT_VER
-from Cilik import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
-from Cilik.helpers.misc import create_botlog, git, heroku
+from Dersu import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
+from Dersu.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-✅ **Cilik-Ubot Activated.**
+✅ **Dmt-supp Activated.**
 **🏷️ Userbot Version -** `{}`
 **Ketik** `.cilik` **untuk Mengecheck Bot**
 """
@@ -35,12 +35,12 @@ async def main():
                 )
             except BaseException:
                 pass
-            LOGGER("Cilik").info(
+            LOGGER("Dersu").info(
                 f"Logged in as {bot.me.first_name} | [ {bot.me.id} ]"
             )
         except Exception as a:
             LOGGER("main").warning(a)
-    LOGGER("Cilik").info(f"Cilik-Ubot v{BOT_VER} ⚙️[⚡ Activated ⚡]")
+    LOGGER("Cilik").info(f"Dmt-supp v{BOT_VER} ⚙️[⚡ Activated ⚡]")
     if bot1 and not str(BOTLOG_CHATID).startswith("-100"):
         await create_botlog(bot1)
     await idle()
@@ -48,7 +48,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("Cilik").info("Starting Cilik-Ubot")
+    LOGGER("Dersu").info("Starting Cilik-Ubot")
     install()
     git()
     heroku()
