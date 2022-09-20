@@ -1,6 +1,6 @@
 {
-  "name": "Cilik-Ubot",
-  "description": "[Cilik-Ubot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
+  "name": "Dmt-supp",
+  "description": "[Dmt-supp] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
   "logo": "https://telegra.ph/file/d20fc177ac0cb0136d942.jpg",
   "stack": "heroku-22",
   "env": {
