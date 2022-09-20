@@ -18,7 +18,7 @@ from Dersu.helpers.misc import create_botlog, git, heroku
 MSG_ON = """
 ✅ **Dmt-supp Activated.**
 **🏷️ Userbot Version -** `{}`
-**Ketik** `.cilik` **untuk Mengecheck Bot**
+**Ketik** `.dersu` **untuk Mengecheck Bot**
 """
 
 
