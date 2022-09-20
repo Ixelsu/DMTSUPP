@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://telegra.ph/photo_2022-09-19 22.29.48.jpg" width="300" height="300"></a> </br>
+  <a href="#"><img src="https://telegra.ph/file/d20fc177ac0cb0136d942.jpg" width="300" height="300"></a> </br>
 </p>
 
 ## Deploy With Heroku 💌
