@@ -35,8 +35,8 @@
 -  [Toni](https://github.com/Toni880) : Prime-UserBot
 
 ## 📑 License
-This repository is license under [GPL-3 License](https://github.com/grey423/Cilik-Ubot/blob/master/LICENSE)
+This repository is license under [GPL-3 License](https://github.com/Ixelsu/DMTSUPP/blob/main/LICENSE)
 <p align="Left">
   </br>
-  <b>Copyright (c) 2022 - grey423 | Cilik-Ubot</b>
+  <b>Copyright (c) 2022 - ixelsu | Dmt-Supp</b>
 </p>
