@@ -48,7 +48,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("Dersu").info("Starting Cilik-Ubot")
+    LOGGER("Dersu").info("Starting Dmt-supp")
     install()
     git()
     heroku()
