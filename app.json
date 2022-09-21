@@ -1,7 +1,7 @@
 {
   "name": "Dmt-supp",
   "description": "[Dmt-supp] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
-  "logo": "https://telegra.ph/file/d20fc177ac0cb0136d942.jpg",
+  "logo": "https://telegra.ph/file/c3d107ee21fc48bbfe9b4.jpg",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
